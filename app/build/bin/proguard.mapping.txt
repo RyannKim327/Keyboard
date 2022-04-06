@@ -1,0 +1,37 @@
+a.a -> a.a:
+    android.inputmethodservice.KeyboardView view -> a
+    android.inputmethodservice.Keyboard alpha -> b
+    android.inputmethodservice.Keyboard symbol -> c
+    android.content.SharedPreferences preferences -> d
+    boolean caps -> e
+    boolean lock -> f
+    android.media.AudioManager beep -> g
+    android.os.Vibrator lindol -> h
+    android.view.View onCreateInputView() -> onCreateInputView
+    void onKey(int,int[]) -> onKey
+    void onPress(int) -> onPress
+    void onRelease(int) -> onRelease
+    void onText(java.lang.CharSequence) -> onText
+    void swipeLeft() -> swipeLeft
+    void swipeRight() -> swipeRight
+    void swipeDown() -> swipeDown
+    void swipeUp() -> swipeUp
+    void <init>() -> <init>
+a.b -> a.b:
+    android.preference.Preference setActivate -> a
+    android.preference.Preference isUsed -> b
+    void onCreate(android.os.Bundle) -> onCreate
+    void <init>() -> <init>
+a.b$100000000 -> a.c:
+    a.b this$0 -> a
+    void <init>(a.b) -> <init>
+    boolean onPreferenceClick(android.preference.Preference) -> onPreferenceClick
+a.b$100000001 -> a.d:
+    a.b this$0 -> a
+    void <init>(a.b) -> <init>
+    boolean onPreferenceClick(android.preference.Preference) -> onPreferenceClick
+com.github.megatronking.stringfog.xor.StringFogImpl -> b.a.a.a.a.a:
+    java.lang.String decrypt(java.lang.String) -> a
+    java.lang.String decrypt(java.lang.String,java.lang.String) -> a
+    byte[] xor(byte[],java.lang.String) -> a
+    void <init>() -> <init>

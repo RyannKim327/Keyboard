@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	<PreferenceCategory
+		android:title="Settings">
+		
+		<Preference
+			android:key="setActivate"
+			android:title="Activate keyboard now"
+			android:summary="Activate the keyboard directly to the settings"/>
+		
+		<Preference
+			android:key="isUsed"
+			android:title="Use keyboard now"
+			android:summary="Use the keyboard"/>
+		
+		<CheckBoxPreference
+			android:key="isBeep"
+			android:title="Enable audio beeps"
+			android:defaultValue="true"/>
+		
+		<CheckBoxPreference
+			android:key="isVibrate"
+			android:title="Enable vibrates"
+			android:defaultValue="true"/>
+		
+	</PreferenceCategory>
+	
+</PreferenceScreen>

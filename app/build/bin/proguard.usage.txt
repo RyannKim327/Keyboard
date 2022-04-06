@@ -1,0 +1,19 @@
+a.b$100000000:
+    static a.b access$0(a.b$100000000)
+a.b$100000001:
+    static a.b access$0(a.b$100000001)
+com.github.megatronking.stringfog.IStringFog
+com.github.megatronking.stringfog.annotation.StringFogIgnore
+com.github.megatronking.stringfog.xor.StringFogImpl:
+    public static final java.lang.String CHARSET_NAME_UTF_8
+    38:44:public java.lang.String encrypt(java.lang.String,java.lang.String)
+    60:60:public boolean overflow(java.lang.String,java.lang.String)
+mpop.revii.keyboard.BuildConfig
+mpop.revii.keyboard.R
+mpop.revii.keyboard.R$attr
+mpop.revii.keyboard.R$color
+mpop.revii.keyboard.R$drawable
+mpop.revii.keyboard.R$layout
+mpop.revii.keyboard.R$string
+mpop.revii.keyboard.R$style
+mpop.revii.keyboard.R$xml

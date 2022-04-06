@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:38
+-keep class a.a { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class a.b { <init>(...); }
+
+# view res/layout/keyboard.xml #generated:1
+-keep class android.inputmethodservice.KeyboardView { <init>(...); }
+

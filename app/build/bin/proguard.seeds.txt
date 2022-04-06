@@ -1,0 +1,20 @@
+a.a
+a.a: a()
+a.b
+a.b: b()
+mpop.revii.keyboard.R$color: int blue
+mpop.revii.keyboard.R$color: int colorAccent
+mpop.revii.keyboard.R$color: int colorPrimary
+mpop.revii.keyboard.R$color: int colorPrimaryDark
+mpop.revii.keyboard.R$color: int green
+mpop.revii.keyboard.R$color: int red
+mpop.revii.keyboard.R$drawable: int background
+mpop.revii.keyboard.R$drawable: int ic_launcher
+mpop.revii.keyboard.R$drawable: int key_background
+mpop.revii.keyboard.R$layout: int keyboard
+mpop.revii.keyboard.R$string: int app_name
+mpop.revii.keyboard.R$style: int AppTheme
+mpop.revii.keyboard.R$xml: int alpha
+mpop.revii.keyboard.R$xml: int preferences_main
+mpop.revii.keyboard.R$xml: int subtype
+mpop.revii.keyboard.R$xml: int symbol
